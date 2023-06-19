@@ -1,3 +1,5 @@
+# DEPRECATED - prometheus metrics are now expored by Burrow its self
+
 # burrow-exporter
 
 A simple prometheus exporter for gathering Kafka consumer group info
